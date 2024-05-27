@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/public/smartSolarCharger.jpg",
+    "name": "Smart Solar Charger",
+    "description": "Un chargeur solaire intelligent qui utilise l'énergie solaire pour recharger vos appareils électroniques tout en étant connecté à une application mobile pour un contrôle et un suivi faciles."
+  },
+  {
+    "image": "/public/indoorGarden.jpg",
+    "name": "Bio-Grow Indoor Garden",
+    "description": "Un jardin d'intérieur biologique qui vous permet de faire pousser des herbes aromatiques, des légumes et des plantes médicinales toute l'année, grâce à un système de culture hydroponique."
+  },
+  {
+    "image": "/public/Toothbrush.jpg",
+    "name": "Eco-Friendly Bamboo Toothbrush",
+    "description": "Une brosse à dents écologique fabriquée à partir de bambou durable, offrant une alternative respectueuse de l'environnement aux brosses à dents en plastique."
+  },
+  {
+    "image": "/public/bouteilleAcier.jpg",
+    "name": "Reusable Stainless Steel Water Bottle",
+    "description": "Une bouteille d'eau en acier inoxydable réutilisable, conçue pour réduire l'utilisation de bouteilles en plastique à usage unique et encourager l'hydratation écologique."
+  },
+  {
+    "image": "/public/energyLed.jpg",
+    "name": "Energy-Efficient LED Light Bulbs",
+    "description": " Des ampoules LED économes en énergie qui offrent un éclairage lumineux tout en réduisant la consommation d'électricité et les coûts énergétiques."
+  },
+  {
+    "image": "/public/noteBookRecycled.jpg",
+    "name": "Recycled Paper Notebook",
+    "description": "Description : Un carnet de notes fabriqué à partir de papier recyclé, idéal pour prendre des notes, dessiner ou esquisser tout en contribuant à la réduction des déchets."
+  }
+]

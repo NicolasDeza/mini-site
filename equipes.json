@@ -1,0 +1,38 @@
+[
+  {
+    "image": "",
+    "name": "Sophie Martin",
+    "poste": "Directrice Générale",
+    "description": "Sophie est la visionnaire derrière EcoNexa Solutions. Elle dirige l'équipe avec passion et détermination pour créer un avenir durable."
+  },
+  {
+    "image": "",
+    "name": "Alexandre Dupont",
+    "poste": "Ingénieur en Énergie Renouvelable",
+    "description": "Alexandre est un expert en énergie solaire et éolienne. Il travaille sur la conception et l'optimisation de nos technologies écologiques."
+  },
+  {
+    "image": "",
+    "name": "Emma Leroy",
+    "poste": "Développeur Web",
+    "description": "Emma est responsable du développement et de la maintenance de notre site web. Elle assure que notre présence en ligne reflète nos valeurs écologiques."
+  },
+  {
+    "image": "",
+    "name": "Ahmed Patel",
+    "poste": "Spécialiste en Éco-Mobilité",
+    "description": "Ahmed travaille sur des solutions de transport écologique. Il est passionné par la promotion des véhicules électriques et des transports publics durables."
+  },
+  {
+    "image": "",
+    "name": "Julie Leclerc",
+    "poste": "Responsable Marketing",
+    "description": "Julie s'occupe de la promotion de nos produits et de notre marque. Elle crée des campagnes créatives pour sensibiliser à notre mission écologique."
+  },
+  {
+    "image": "",
+    "name": "Lucas Fernandez",
+    "poste": "Technicien de Laboratoire",
+    "description": "Lucas est chargé des tests et de l'analyse de nos prototypes. Il veille à ce que nos produits respectent les normes de qualité et de durabilité les plus élevées."
+  }
+]
